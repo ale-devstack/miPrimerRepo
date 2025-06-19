@@ -11,6 +11,6 @@ Cambios desde mi rama local dev-01
 
 Esto es un cambio
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->

@@ -10,3 +10,7 @@ Una actualización más
 Cambios desde mi rama local dev-01
 
 Esto es un cambio
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
